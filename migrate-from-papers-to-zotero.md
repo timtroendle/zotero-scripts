@@ -9,3 +9,4 @@ To migrate a Papers3 library or parts of it do the following. There are many ann
 5. Export all PDFs from Papers3.
 6. (optional) Papers3 3.4.10 has a bug (one of many) in which the comments aren't exported into the PDFs, only the highlights. To retain them, manually add them.
 7. Manually assign PDF files to Zotero entries.
+8. Manually copy reviews from Papers to Zotero notes.
