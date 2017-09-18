@@ -4,7 +4,7 @@ To migrate a Papers3 library or parts of it do the following. There are many ann
 
 1. Export all entries as bibtex, including complete metadata.
 2. Run clean-papers-bibtex to remove references to Papers3 or its files.
-3. Import the bibtex into Zotero.
+3. Import the bibtex into Zotero. Do not sync before performing the next step!
 4. Close Zotero and run update-date-added to apply the date-added fields from the bibtex file.
 5. Export all PDFs from Papers3.
 6. (optional) Papers3 3.4.10 has a bug (one of many) in which the comments aren't exported into the PDFs, only the highlights. To retain them, manually add them.
